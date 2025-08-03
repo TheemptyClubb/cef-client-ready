@@ -8,3 +8,13 @@
 <img width="1113" height="777" alt="Image" src="https://github.com/user-attachments/assets/266a696c-4223-4495-92ce-2820291b4843" />
 
 
+
+
+
+
+
+# credit and the maker of this is 
+https://github.com/Pycckue-Bnepeg
+
+
+# I just share the ready to use client side and paste it into your gta directory
